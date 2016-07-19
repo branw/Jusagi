@@ -2,7 +2,7 @@
 #include "arg_parse.hpp"
 #include "utils.hpp"
 
-namespace inject
+namespace eject
 {
 	void handle(arg_parser &parser);
 }

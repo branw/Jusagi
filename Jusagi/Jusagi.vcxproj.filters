@@ -28,6 +28,12 @@
     <ClCompile Include="arg_parse.cpp">
       <Filter>Utils</Filter>
     </ClCompile>
+    <ClCompile Include="eject_mode.cpp">
+      <Filter>Frontend</Filter>
+    </ClCompile>
+    <ClCompile Include="utils.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="inject_mode.hpp">
@@ -38,6 +44,9 @@
     </ClInclude>
     <ClInclude Include="utils.hpp">
       <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="eject_mode.hpp">
+      <Filter>Frontend</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
