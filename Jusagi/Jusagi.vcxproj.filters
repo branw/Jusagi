@@ -13,10 +13,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md" />
-    <None Include=".gitignore" />
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="LICENSE.txt" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -48,5 +44,8 @@
     <ClInclude Include="eject_mode.hpp">
       <Filter>Frontend</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="LICENSE.txt" />
   </ItemGroup>
 </Project>
